@@ -27,3 +27,6 @@ Hand gestures are spontaneous and powerful communication mode for Human Computer
 # Result
 ![image](https://user-images.githubusercontent.com/74816597/162113219-929e377c-3817-4067-b01e-d89f89df18d3.png)
 ![image](https://user-images.githubusercontent.com/74816597/162113234-f0e40278-e6b7-4474-b9f6-cf758a38cab3.png)
+
+# CONCLUSION
+The project presented a program that allowed user to perform hand gestures for easy software control. A vision-based hand Gesture system that does not require any special markers or gloves and can operate in real-time on a commodity PC with low-cost cameras. Specifically, the system can track the tip positions of the counters and index finger for each hand.
