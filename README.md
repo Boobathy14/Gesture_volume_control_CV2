@@ -8,7 +8,7 @@ Hand gestures are spontaneous and powerful communication mode for Human Computer
 
 # Requirements
 ![logo](https://user-images.githubusercontent.com/74816597/162115691-8961fa8f-185d-4057-90a5-f5bd4930840d.png)
-![1200px-OpenCV_Logo_with_text_svg_version svg](https://user-images.githubusercontent.com/74816597/162113446-b9890016-da6b-441d-a06e-cac5b1149075.png)
+![download (1)](https://user-images.githubusercontent.com/74816597/162115815-27f714fa-9379-4a9e-8f96-850e9daa15fb.png)
 ![logo_horizontal_color](https://user-images.githubusercontent.com/74816597/162113630-cd47f74d-614c-4a86-a802-9453a6ddbcdb.png)
 ![download](https://user-images.githubusercontent.com/74816597/162113822-87e87bd8-ba25-483e-ba50-f381bd2bf891.png)
 
