@@ -7,7 +7,7 @@ A hand gesture recognition system provides a natural, innovative and modern way 
 Hand gestures are spontaneous and powerful communication mode for Human Computer Interaction (HCI). Traditional input devices are available for interaction with computer, such as keyboard, mouse, joystick as well as touch screen; however they do not provide natural interface. The proposed system will consist of desktop or laptop interface, the hand gesture may be used by the users may need to wear any data glove, or may use the web camera for capturing the hand image. The initial step towards any hand gesture recognition is hand tracking and segmentation. Sensor devices are used in Data-Glove based methods for digitizing hand and finger motions into multi parametric data.
 
 # Requirements
-![1200px-Python svg](https://user-images.githubusercontent.com/74816597/162113407-2b0f0e1a-0667-4f6c-adff-0e8750357f9f.png | width= 100)
+![1200px-Python svg](https://user-images.githubusercontent.com/74816597/162113407-2b0f0e1a-0667-4f6c-adff-0e8750357f9f.png)
 ![1200px-OpenCV_Logo_with_text_svg_version svg](https://user-images.githubusercontent.com/74816597/162113446-b9890016-da6b-441d-a06e-cac5b1149075.png)
 ![logo_horizontal_color](https://user-images.githubusercontent.com/74816597/162113630-cd47f74d-614c-4a86-a802-9453a6ddbcdb.png)
 ![download](https://user-images.githubusercontent.com/74816597/162113822-87e87bd8-ba25-483e-ba50-f381bd2bf891.png)
